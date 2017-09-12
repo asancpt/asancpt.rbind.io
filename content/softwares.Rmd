@@ -1,0 +1,32 @@
+---
+title: Softwares
+---
+
+서울아산병원 임상약리학과에서 개발한 소프트웨어입니다.
+
+## R packages
+
+`r format(citation("ncar"), "html")`
+`r format(citation("pkr"), "html")`
+`r format(citation("NonCompart"), "html")`
+`r format(citation("nmw"), "html")`
+`r format(citation("caffsim"), "html")`
+`r format(citation("crftools"), "html")`
+`r format(citation("glasgowcoma"), "html") # devtools::install_github('shanmdphd/glasgowcoma')` 
+
+## Shiny Web Apps
+
+- shan: pkrshiny <https://asancpt.shinyapps.io/pkrshiny>, source: <https://github.com/asancpt/shiny-pkr>
+- shan: caff <https://asancpt.shinyapps.io/caff>
+- shan: noncompart <https://asancpt.shinyapps.io/noncompart>
+- shan: vtdm <https://asancpt.shinyapps.io/vtdm> 
+
+
+## Edison Science Apps
+
+- shan: CaffeineEdison <https://github.com/asancpt/edison-caff>
+- shan: NonCompartEdison <https://github.com/asancpt/edison-NonCompart>
+- shan: nmw2017edison <https://github.com/asancpt/edison-nmw>
+- shan: pk1c <https://github.com/asancpt/edison-pk1c>
+
+(Reference: <https://github.com/asancpt/edison-report>)

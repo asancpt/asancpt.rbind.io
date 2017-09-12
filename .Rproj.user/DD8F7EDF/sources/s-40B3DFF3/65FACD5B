@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1505183417192.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "65FACD5B",
+    "lastKnownWriteTime" : 1505189499,
+    "last_content_update" : 1505189499,
+    "path" : "~/asancpt/xmin/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "12,43",
+        "marks" : "<:12,42\n>:12,43",
+        "scrollLine" : "7"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
