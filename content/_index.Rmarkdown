@@ -2,7 +2,7 @@
 title: Home
 ---
 
-[<img src="https://asancpt.github.io/img/cover.jpg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/asancpt/)
+[<img src="https://avatars1.githubusercontent.com/u/25226054?v=4&s=200" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/asancpt/)
 
 # Asan CPT
 

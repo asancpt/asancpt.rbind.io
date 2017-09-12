@@ -1,5 +1,10 @@
-publishDir = "../"
+###
+
+hasCJKLanguage = true
 baseurl = "https://asancpt.github.io/"
+
+###
+
 languageCode = "en-us"
 title = "A minimal Hugo website"
 theme = "hugo-xmin"
